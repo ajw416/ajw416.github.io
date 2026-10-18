@@ -1,1 +1,3 @@
-# ajw416.github.io
+# Hello!
+
+This serves as a website for **AJW416**!
